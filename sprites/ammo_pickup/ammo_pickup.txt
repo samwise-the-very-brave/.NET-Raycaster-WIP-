@@ -1,0 +1,1 @@
+#default ammo_pickup.png

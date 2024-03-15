@@ -1,0 +1,6 @@
+#default kuktas_kajetan.png
+#anim front kuktas_kajetan.png - 0, kuktas_kajetan.png - 0
+#anim right kuktas_kajetan_facing_right.png - 0, kuktas_kajetan_facing_right.png - 0
+#anim left kuktas_kajetan_facing_left.png - 0, kuktas_kajetan_facing_left.png - 0
+#anim back kuktas_kajetan_back.png - 0, kuktas_kajetan_back.png - 0
+#anim dead kuktas_kajetan_dead.png - 0, kuktas_kajetan_dead.png - 0

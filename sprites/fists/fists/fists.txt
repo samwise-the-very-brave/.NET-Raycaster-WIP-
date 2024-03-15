@@ -1,0 +1,3 @@
+#default fists.png
+#anim idle fists.png - 0, fists.png - 0
+#anim punch, punch_1.png - 0.015, punch_2.png - 0.015, punch_3.png - 0.015
